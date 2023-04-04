@@ -1,9 +1,8 @@
 ### Hello! 😃
 
-- 🔭 I’m currently working on getting certified as a Software Developer (I am a UX/UI Designer who likes knowing the whole process 😥)
-- 🌱 I’m currently learning Python, Blender and Flutter
-- 👯 I’m looking to collaborate on one NASA open projects
-- 🤔 I’m looking for help with locating Artificial Intelligence and Machine Learning optimal studying pathways
+- 🔭 I’m currently meeting new and exciting people in the product design field
+- 🌱 I’m currently learning Python and Blender
+- 👯 I’m looking to collaborate on interesting and mind numbing sort of projects
 - 💬 Ask me about 3D Design and Anime
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/debbie-nyasetia-325517127/)
 - 😄 Pronouns: she/her/hers
